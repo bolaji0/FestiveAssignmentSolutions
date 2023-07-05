@@ -1,0 +1,15 @@
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/bin/Debug/net7.0/FestiveAssignment
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/bin/Debug/net7.0/FestiveAssignment.deps.json
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/bin/Debug/net7.0/FestiveAssignment.runtimeconfig.json
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/bin/Debug/net7.0/FestiveAssignment.dll
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/bin/Debug/net7.0/FestiveAssignment.pdb
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.csproj.AssemblyReference.cache
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.AssemblyInfoInputs.cache
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.AssemblyInfo.cs
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.csproj.CoreCompileInputs.cache
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.dll
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/refint/FestiveAssignment.dll
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.pdb
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/FestiveAssignment.genruntimeconfig.cache
+/Users/mustapha/Projects/FestiveAssignment/FestiveAssignment/obj/Debug/net7.0/ref/FestiveAssignment.dll
